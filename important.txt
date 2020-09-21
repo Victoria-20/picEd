@@ -1,0 +1,10 @@
+ follow these steps
+
+
+
+
+
+1- install database
+2-copy all files
+3-include the frontend folder, i have not included it in because of data
+4- login credentials ============ user -- vic ,,,,,,,, password -- password
